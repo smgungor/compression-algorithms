@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589724654 source:b:\programlama projelerim\lz77_huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+
